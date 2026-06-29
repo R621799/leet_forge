@@ -110,7 +110,7 @@ body {
     font-weight: 600;
 }
 
-..controls-row,
+.controls-row,
 .button_for_eval {
     display: flex;
     flex-wrap: wrap;
